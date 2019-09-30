@@ -1,6 +1,8 @@
 name: jadwal_sholat
-description: A new Flutter project.
+description: Aplikasi sederhana untuk menampilkan jadwal sholat berdasarkan GPS.
 version: 1.0.0+1
+author: Mochamad Nizwar Syafuan
+homepage: https://github.com/nizwar/
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
