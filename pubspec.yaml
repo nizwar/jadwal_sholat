@@ -1,0 +1,26 @@
+name: jadwal_sholat
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^5.1.3
+  simplehttpconnection: ^1.3.0
+  shimmer: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/bg.jpg
+  fonts:
+    - family:  Logo
+      fonts:
+        - asset: assets/fonts/logo.ttf 
