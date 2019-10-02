@@ -14,6 +14,13 @@ Aplikasi sederhana untuk mendapatkan jadwal sholat berdasarkan lokasi GPS.
 - [Flutericons](http://fluttericon.com/)
 - [Al-Adhan API](http://api.aladhan.com)
 
+## Cara menjalankan aplikasi dengan VS Code
+- Buka project ini di VS Code kalian
+- Pastikan sudah terinstall SDK Android dan SDK Flutter
+- Jika belum terinstall silakan download di [SDK Flutter](https://flutter.dev/docs/get-started/install) dan [SDK Android](https://developer.android.com/studio/)
+- Tekan tombol F5 untuk menjalankan aplikasi
+
+
 ## Tentang Saya 
 
 <p align="center">
